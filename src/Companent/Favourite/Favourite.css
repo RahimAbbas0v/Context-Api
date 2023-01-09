@@ -1,0 +1,5 @@
+#tablehead2{
+    position: sticky;
+    top: 0.01px;
+    background-color: red;
+}
